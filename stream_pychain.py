@@ -52,9 +52,7 @@ if st.button("Add Block"):
 
         # Create Record based on user input containing the `sender`, `receiver`,
         # and `amount` values
-        record_input = Record(st.session_state.sender,
-                              st.session_state.receiver,
-                              st.session_state.amount)
+        record_input = Record(sender, receiver, amount)
 
         # Create `Block` consists of an attribute named `record`
         # which is set equal to a `Record`
