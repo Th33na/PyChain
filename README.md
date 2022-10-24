@@ -9,9 +9,9 @@ This project uses python 3.9 with the following:
 
 * [pandas](https://pandas.pydata.org/)
 
-* [hashlib](https://hvplot.holoviz.org/)
+* [hashlib](https://docs.python.org/3/library/hashlib.html)
 
-* [streamlit](https://docs.python.org/3/library/hashlib.html)
+* [streamlit](https://streamlit.io/)
 
 
 ## Usage
